@@ -1,0 +1,101 @@
+id,merchant_id,name,description,price,image,temperature,weather_main,createdAt,updatedAt
+1,1,Nasi Goreng Spesial,Nasi goreng lezat dengan tambahan telur dan ayam.,25000,NasiGoreng.jpg,0 - 20,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+2,2,Mie Goreng,Mie goreng lezat dengan tambahan telur dan ayam.,20000,MieGoreng.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+3,3,Mie Lendir,Mie Lendir lezat dengan tambahan telur dan ayam.,15000,MieLendir.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+4,4,Baso Malang,Bakso Malang lezat dengan kuah gurih dan enak.,15000,BasoMalang.jpg,25 – 45,"Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+5,5,Batagor,Batagor Ikan lezat dengan kuah kering dari kacang.,10000,Batagor.png,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+6,6,Es Cendol,Es cendol seger,10000,EsCendol.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+7,7,Es Teler,Es teler seger,15000,EsTeler.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+8,8,Soto Bandoeng,Soto Bandoeng Mantap,20000,SotoBandung.jpg,0 - 20,"Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+9,9,Bakso Tahu,Bakso Tahu Bandung dengan Bumbu Kacang,10000,BaksoTahu.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+10,10,Mie Kocok Bandung,"Mie kunir dengan kaldu sapi gurih, dilengkapi kikil, taoge, dan daun bawang.",25000,MiKocok.jpg,25 – 45,"Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+11,11,Bandrek,"Minuman hangat yang terbuat dari jahe, gula merah, dan rempah-rempah lainnya",7000,Bandrek.jpg,0 - 20,"Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+12,12,Es Kopi Susu,"Kopi susu yang disajikan dingin, dengan rasa kopi yang kuat dan susu kental manis",18000,EsKopiSusu.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+13,13,Serabi Bandung,Kue tradisional berbahan tepung beras yang dimasak di atas wajan kecil,5000,Serabi.jpg,25 – 45,"Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+14,14,Pisang Molen,"Pisang yang dibungkus adonan tepung, digoreng garing, dan disajikan hangat",15000,PisanMolen.jpg,25 – 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+15,15,Kue Lapis Legit,Kue berlapis yang lembut dan manis,25000,KueLapisLegit.jpg,0 - 20,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+16,16,Kue Apem,"Kue lembut yang manis, terbuat dari tepung beras dengan isian kelapa parut",25000,KueApem.jpg,0 - 20,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+17,17,Rujak,Aneka Buah-Buahan Segar dengan Bumbu Rujak Mantap,15000,Rujak.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+18,18,Salad Buah,Aneka Buah-Buahan Segar dengan Saos Salad Lezat,25000,SaladBuah.jpg,0 - 20,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+19,19,Asinan Buah,Asinan Buah Fresh,20000,AsinanBuah.jpg,0 - 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+20,20,Roti Bakar,Roti Bakar dengan Berbagai Toping,15000,RotiBakar.jpg,25 – 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+21,21,Crepes,Crepes Renyah dengan Berbagai Toping,10000,Crepes.jpg,0 - 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+22,22,Seblak Seuhah,Seblak Pedas Asli Bandung,10000,Seblak.jpg,0 - 45,"Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+23,23,Telor Gulung,Telor Digulung dan Diberi Saus,5000,TelorGulung.jpg,0 - 20,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+24,24,Cireng Racing,Cireng Isi,2500,CirengIsi.png,25 – 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+25,25,Es Doger,Es Doger Komplit Segar,10000,EsDoger.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+26,26,Es Kelapa,Kelapa muda yang diserut dan disajikan dengan es batu,7000,EsKelapa.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+27,27,Fried Chicken,Ayam Goreng Tepung Sedap,12000,FriedChicken.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+28,28,Cuanki Serayu,"Makanan khas Bandung berupa bakso dan tahu yang disajikan dengan kuah kaldu panas, daun seledri dan bawang goreng",15000,Cuanki.jpg,25 – 45,"Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+29,29,Bebek Bakar,"Makanan yang dibumbui dengan rempah khas, kemudian dibakar hingga kulitnya garing dan dagingnya juicy.",20000,BebekBakar.jpg,0 - 20,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+30,30,Sop Iga Sapi,"Sup kaldu bening yang kaya rasa, berisi potongan iga sapi empuk, kentang, wortel, dan sayuran segar.",35000,SopIga.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+31,31,Sate Madura,Potongan daging ayam yang ditusuk dan dipanggang dengan bumbu kacang atau kecap manis.,15000,Sate.jpg,0 - 20,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+32,32,Nasi Uduk,"Nasi yang dimasak dengan santan, disajikan dengan lauk.",10000,NasiUduk.jpg,0 - 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+33,33,Es Tebu,Minuman manis dari air tebu yang diperas langsung dari batang tebu.,8000,EsTebu.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+34,34,Jus,Jus segar yang dibuat dari berbagai buah,8000,Jus.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+35,35,Risol Mayo,Makanan goreng berisi daging dan mayo yang dibalut tepung roti,5000,Risol.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+36,36,Gehu Pedas,Gorengan tahu yang diisi dengan sayuran dan cabai pedas yang dibalut dengan Tepung,5000,GehuPedas.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+37,37,Pisang Crispy,Pisang Goreng yang dibalut dengan toping roti lalu dioles dengan berbagai Toping,12000,PisangCrispy.jpg,25 – 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+38,38,Kue Odading,Cemilan khas Bandung yang terbuat dari adonan tepung yang digoreng hingga renyah di luar dan lembut di dalam,5000,Odading.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+39,39,Dadar Gulung,Kue gulung berisi kelapa parut manis dan daun pandan,3000,DadarGulung.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+40,40,Kue Sus,Cemilan yang mempunyai ciri khas kulit renyah di luar dan isian krim manis di dalam,5000,DadarGulung.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+41,41,Donat Mini,"Donat mini dengan topping gula halus atau coklat, kenyal dan manis.",6000,Donat.jpg,0 - 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+42,42,Es Durian,"Minuman segar dengan campuran durian, es serut, dan sedikit susu manis",15000,EsDurian.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+43,43,Mie Ayam,"Mie dengan topping ayam suwir, sayur, dan kuah kaldu",17000,MieAyam.jpg,0 - 20,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+44,44,Semangka Potong,Semangka segar yang dipotong dan disajikan dengan es serut,10000,SemangkaPotong.jpg,0 - 20,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+45,45,Es Kulkul,Buah Buahan yang dibekukan lalu dilumuri coklat,5000,EsKulKul.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+46,46,Kacang Rebus,"Kacang tanah rebus yang gurih, cocok untuk camilan sore",5000,KacangRebus.jpg,0 - 20,"Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+47,47,Es Teh,Minuman Es Teh Manis Segar,5000,EsTeh.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+48,48,Bubur Ayam,Bubur Ayam Khas Bandung,10000,BuburAyam.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+49,49,Tahu Gejrot,"Tahu goreng dengan bumbu gejrot pedas manis, cocok untuk cemilan",10000,TahuGejrot.jpg,25 – 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+50,50,Makaroni Basah,"Makaroni yang dimasak dengan bumbu kaya rasa dan kuah yang gurih, cocok sebagai cemilan atau makanan berat",7000,Makaroni.jpg,0 - 20,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+51,51,Roti Canai,Roti canai lembut dengan saus kari kental.,15000,RotiCanai.jpg,0 - 20,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+52,52,Es Campur,"Minuman segar dengan campuran buah, agar-agar, dan sirup.",12000,EsCampur.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+53,53,Pempek Palembang,Ikan khas Palembang disajikan dengan kuah cuko pedas.,20000,Pempek.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+54,54,Ayam Penyet,Ayam goreng dengan sambal pedas yang diulek langsung.,18000,AyamPenyet.jpg,0 - 20,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+55,55,Sate Padang,Sate dengan kuah bumbu khas Padang.,25000,SatePadang.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+56,56,Tahu Bulat,"Tahu goreng renyah, enak disantap hangat.",5000,TahuBulat.jpg,25 – 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+57,57,Es Krim Mochi,Mochi kenyal berisi es krim aneka rasa.,20000,Mochi.jpg,25 – 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+58,58,Nasi Liwet,Nasi gurih khas Solo dengan lauk lengkap.,25000,NasiLiwet.jpg,25 – 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+59,59,Cendol Dawet,Minuman tradisional dengan santan dan gula merah.,10000,CendolDawet.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+60,60,Ayam Geprek,Ayam goreng dengan sambal bawang super pedas.,20000,AyamGeprek.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+61,61,Sop Buntut,Sup dengan buntut sapi yang empuk dan kaya rasa.,35000,SopBuntut.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+62,62,Nasi Kuning,"Nasi gurih dengan lauk seperti ayam, telur, dan perkedel.",15000,NasiKuning.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+63,63,Ketoprak,Makanan khas Jakarta dengan bumbu kacang dan lontong.,12000,Ketoprak.jpg,0 - 20,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+64,64,Rendang,Daging sapi empuk dengan bumbu rempah khas Padang.,30000,Rendang.jpg,0 - 20,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+65,65,Es Cincau,Minuman segar dari cincau dan santan manis.,8000,EsCincau.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+66,66,Pisang Goreng,Pisang goreng renyah dengan topping keju atau coklat.,15000,PisangGoreng.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+67,67,Lontong Sayur,Lontong dengan sayur labu dan kuah santan.,12000,LontongSayur.jpg,0 - 20,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+68,68,Tahu Sumedang,"Tahu goreng khas Sumedang, renyah di luar lembut di dalam.",5000,TahuSumedang.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+69,69,Rawon,Sup khas Jawa Timur dengan kuah hitam dari kluwek.,25000,Rawon.jpg,0 - 20,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+70,70,Martabak Manis,"Martabak dengan topping coklat, kacang, atau keju.",25000,MartabakManis.jpg,0 - 20,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+71,71,Martabak Telur,Martabak dengan isian telur dan daging cincang.,20000,MartabakTelur.jpg,25 – 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+72,72,Es Jeruk Nipis,Minuman segar dari jeruk nipis peras dan es batu.,10000,EsJerukNipis.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+73,73,Dimsum,Makanan ringan khas Cina dengan isian ayam atau udang.,20000,Dimsum.jpg,0 - 20,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+74,74,Es Susu Jahe,Minuman susu segar dengan jahe hangat.,15000,EsSusuJahe.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+75,75,Bakwan Jagung,Gorengan jagung yang renyah dan gurih.,5000,BakwanJagung.jpg,0 - 20,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+76,76,Serabi Bandung,Pancake tradisional dengan topping kelapa atau cokelat.,12000,SerabiBandung.jpg,25 – 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+77,77,Bakso Malang,"Bakso khas Malang lengkap dengan tahu, siomay, dan pangsit.",25000,BaksoMalang.jpg,0 - 45,"Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+78,78,Es Doger,Minuman tradisional dingin dengan campuran kelapa dan tape.,15000,EsDoger.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+79,79,Rendang Padang,Daging sapi empuk dengan bumbu rendang khas Minang.,40000,RendangPadang.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+80,80,Soto Betawi,Soto khas Betawi dengan kuah santan gurih.,30000,SotoBetawi.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+81,81,Nasi Goreng Kampung,Nasi goreng khas dengan bumbu tradisional dan sambal.,25000,NasiGorengKampung.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+82,82,Capcay Kuah,Sayuran tumis dengan kuah kental dan tambahan seafood.,20000,CapcayKuah.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+83,83,Es Teler,"Minuman segar dengan campuran kelapa, alpukat, dan nangka.",15000,EsTeler.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+84,84,Mie Aceh,Mie khas Aceh dengan rasa rempah yang kuat.,20000,MieAceh.jpg,0 - 20,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+85,85,Ikan Bakar Jimbaran,"Ikan bakar dengan bumbu khas Jimbaran, Bali.",50000,IkanBakarJimbaran.jpg,0 - 20,"Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+86,86,Karedok,Sayuran segar dengan saus kacang khas Sunda.,15000,Karedok.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+87,87,Sayur Lodeh,Sayur dengan kuah santan dan aneka sayuran.,20000,SayurLodeh.jpg,25 – 45,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+88,88,Pisang Goreng Keju,Pisang goreng dengan taburan keju dan cokelat.,10000,PisangGorengKeju.jpg,25 – 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+89,89,Coto Makassar,Sup daging khas Makassar dengan bumbu rempah khas.,30000,CotoMakassar.jpg,0 - 20,"Clear, Clouds",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+90,90,Ayam Penyet,Ayam goreng yang dilumatkan dengan sambal pedas.,20000,AyamPenyet.jpg,25 – 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+91,91,Sate Padang,Sate khas Padang dengan kuah kental yang pedas.,20000,SatePadang.jpg,25 – 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+92,92,Tahu Gejrot,Tahu goreng dengan kuah asam manis pedas.,10000,TahuGejrot.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+93,93,Nasi Uduk,Nasi gurih dengan lauk pauk tradisional.,15000,NasiUduk.jpg,25 – 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+94,94,Mie Kocok Bandung,Mie khas Bandung dengan kuah kaldu sapi.,20000,MieKocok.jpg,25 – 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+95,95,Pepes Ikan,Ikan dengan bumbu rempah yang dibungkus daun pisang.,25000,PepesIkan.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+96,96,Bandrek,Minuman tradisional hangat dengan jahe dan rempah.,10000,Bandrek.jpg,0 - 20,"Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+97,97,Wedang Ronde,Minuman jahe dengan ronde dan kacang.,15000,WedangRonde.jpg,0 - 20,"Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+98,98,Bakmi Jawa,Bakmi khas Jawa dengan rasa gurih dan rempah.,20000,BakmiJawa.jpg,25 – 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+99,99,Nasi Pecel,Nasi dengan sayuran rebus dan bumbu kacang.,15000,NasiPecel.jpg,25 – 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
+100,100,Ayam Taliwang,Ayam khas Lombok dengan bumbu pedas menggoda.,30000,AyamTaliwang.jpg,0 - 45,"Clear, Clouds, Drizzle, Rain",2024-12-05T17:16:10.565Z,2024-12-05T17:16:10.565Z
