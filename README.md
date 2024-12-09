@@ -42,6 +42,6 @@ Average Rating: The average user rating for a food from highest to worst.
    ```
 3. Launch the FastAPI server:
    ```bash
-   uvicorn app:app --reload
+   uvicorn main:app --reload
    ```
 4. Use the API to send a POST request to the `/recommend` endpoint with the required parameters (user ID, weather, and temperature).
