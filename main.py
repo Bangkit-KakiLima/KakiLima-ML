@@ -131,3 +131,6 @@ print(f"Starting server at http://0.0.0.0:{port}")
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=port)
+
+# For testing locally, use: uvicorn main:app --reload
+# Deployment: Ensure Google Cloud configurations are in place
