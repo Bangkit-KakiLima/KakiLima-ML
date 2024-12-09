@@ -23,10 +23,11 @@ The system will first filter the food items based on the weather condition. Then
 
 ### Response: The system will return a list of recommended food items with the following information:
 
-Food Name: The name of the food item.
-Merchant ID: The vendor offering the food.
-Price: The price of the food item.
-Description: A brief description of the food item.
+* Food Name: The name of the food item.
+* Merchant ID: The vendor offering the food.
+* Price: The price of the food item.
+* Description: A brief description of the food item.
+* Average Rating: Highest rating food
 
 ## Benefit
 * Personalized Experience: Recommendations are tailored to each user based on their preferences and past interactions.
