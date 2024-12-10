@@ -6,6 +6,9 @@ import numpy as np
 import tensorflow as tf
 import os
 import uvicorn
+from fastapi.middleware.cors import CORSMiddleware
+
+
 
 # Load datasets
 try:
@@ -41,6 +44,14 @@ app = FastAPI(
     title="Enhanced Street Vendor Food Recommendations API",
     description="Provides street food recommendations based on actual ratings and user preferences.",
     version="2.0"
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Ubah "*" jika hanya mengizinkan domain tertentu
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 # Input schema
