@@ -1,4 +1,4 @@
-# Ping - Kaki Lima Online - Machine Learning
+# PING - Kaki Lima Online - Machine Learning
 
 ## Bangkit Capstone Project 2024
 Here is our repository for the Bangkit 2024 Capstone project - Machine Learning.
